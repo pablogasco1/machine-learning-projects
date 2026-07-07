@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+seaborn
+torchsummary
+torchvision
+kagglehub
+catboost
+imblearn
+nbformat
