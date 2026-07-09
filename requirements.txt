@@ -10,3 +10,4 @@ kagglehub
 catboost
 imblearn
 nbformat
+lightgbm
