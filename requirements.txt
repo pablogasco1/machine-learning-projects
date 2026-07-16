@@ -11,3 +11,4 @@ catboost
 imblearn
 nbformat
 lightgbm
+statsmodels
